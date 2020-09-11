@@ -1,0 +1,2 @@
+E:\project\MiniGame\MiniGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\project\MiniGame\MiniGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
