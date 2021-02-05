@@ -515,9 +515,7 @@ public class MapGenerator : MonoBehaviour
         Room firstRoom = inconnected[0];
         connected.Add(firstRoom);
         inconnected.Remove(firstRoom);
-        Dictionary<Room, Edge> cloestDistance = null; 
-
-
+        Dictionary<Room, Edge> cloestDistance = null;
         while (inconnected.Count > 0)
         {
             if (cloestDistance == null)
